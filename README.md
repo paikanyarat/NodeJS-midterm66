@@ -1,3 +1,3 @@
 ﻿# NodeJS-midterm66
- Kanyarat Yafoo
+กัลยรัตน์ ยะฟู
  64310419
